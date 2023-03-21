@@ -26,5 +26,4 @@ function onSubmit(e){
     //clear fields
     employeeName.value = '';
     employeeEmail.value = '';
-    alert();
 }
